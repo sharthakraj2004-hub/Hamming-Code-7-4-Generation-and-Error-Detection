@@ -1,0 +1,44 @@
+xst -intstyle ise -ifn "C:/Users/Student.DESKTOP-BRRV4QB.001/Downloads/376/Project_LCD/top_mips_hamming.xst" -ofn "C:/Users/Student.DESKTOP-BRRV4QB.001/Downloads/376/Project_LCD/top_mips_hamming.syr" 
+xst -intstyle ise -ifn "C:/Users/Student.DESKTOP-BRRV4QB.001/Downloads/376/Project_LCD/top_mips_hamming.xst" -ofn "C:/Users/Student.DESKTOP-BRRV4QB.001/Downloads/376/Project_LCD/top_mips_hamming.syr" 
+xst -intstyle ise -ifn "C:/Users/Student.DESKTOP-BRRV4QB.001/Downloads/376/Project_LCD/top_mips_hamming.xst" -ofn "C:/Users/Student.DESKTOP-BRRV4QB.001/Downloads/376/Project_LCD/top_mips_hamming.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_mips_hamming.ucf -p xc6slx9-tqg144-3 top_mips_hamming.ngc top_mips_hamming.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_mips_hamming_map.ncd top_mips_hamming.ngd top_mips_hamming.pcf 
+par -w -intstyle ise -ol high -mt off top_mips_hamming_map.ncd top_mips_hamming.ncd top_mips_hamming.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_mips_hamming.twx top_mips_hamming.ncd -o top_mips_hamming.twr top_mips_hamming.pcf -ucf top_mips_hamming.ucf 
+bitgen -intstyle ise -f top_mips_hamming.ut top_mips_hamming.ncd 
+xst -intstyle ise -ifn "C:/Users/Student.DESKTOP-BRRV4QB.001/Downloads/376/Project_LCD/top_mips_hamming.xst" -ofn "C:/Users/Student.DESKTOP-BRRV4QB.001/Downloads/376/Project_LCD/top_mips_hamming.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_mips_hamming.ucf -p xc6slx9-tqg144-3 top_mips_hamming.ngc top_mips_hamming.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_mips_hamming_map.ncd top_mips_hamming.ngd top_mips_hamming.pcf 
+par -w -intstyle ise -ol high -mt off top_mips_hamming_map.ncd top_mips_hamming.ncd top_mips_hamming.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_mips_hamming.twx top_mips_hamming.ncd -o top_mips_hamming.twr top_mips_hamming.pcf -ucf top_mips_hamming.ucf 
+bitgen -intstyle ise -f top_mips_hamming.ut top_mips_hamming.ncd 
+xst -intstyle ise -ifn "C:/Users/Student.DESKTOP-BRRV4QB.001/Downloads/376/Project_LCD/top_mips_hamming.xst" -ofn "C:/Users/Student.DESKTOP-BRRV4QB.001/Downloads/376/Project_LCD/top_mips_hamming.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_mips_hamming.ucf -p xc6slx9-tqg144-3 top_mips_hamming.ngc top_mips_hamming.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_mips_hamming_map.ncd top_mips_hamming.ngd top_mips_hamming.pcf 
+par -w -intstyle ise -ol high -mt off top_mips_hamming_map.ncd top_mips_hamming.ncd top_mips_hamming.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_mips_hamming.twx top_mips_hamming.ncd -o top_mips_hamming.twr top_mips_hamming.pcf -ucf top_mips_hamming.ucf 
+bitgen -intstyle ise -f top_mips_hamming.ut top_mips_hamming.ncd 
+xst -intstyle ise -ifn "C:/Users/Student.DESKTOP-BRRV4QB.001/Downloads/376/Project_LCD/top_mips_hamming.xst" -ofn "C:/Users/Student.DESKTOP-BRRV4QB.001/Downloads/376/Project_LCD/top_mips_hamming.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_mips_hamming.ucf -p xc6slx9-tqg144-3 top_mips_hamming.ngc top_mips_hamming.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_mips_hamming_map.ncd top_mips_hamming.ngd top_mips_hamming.pcf 
+par -w -intstyle ise -ol high -mt off top_mips_hamming_map.ncd top_mips_hamming.ncd top_mips_hamming.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_mips_hamming.twx top_mips_hamming.ncd -o top_mips_hamming.twr top_mips_hamming.pcf -ucf top_mips_hamming.ucf 
+bitgen -intstyle ise -f top_mips_hamming.ut top_mips_hamming.ncd 
+xst -intstyle ise -ifn "C:/Users/Student.DESKTOP-BRRV4QB.001/Downloads/376/Project_LCD/top_mips_hamming.xst" -ofn "C:/Users/Student.DESKTOP-BRRV4QB.001/Downloads/376/Project_LCD/top_mips_hamming.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_mips_hamming.ucf -p xc6slx9-tqg144-3 top_mips_hamming.ngc top_mips_hamming.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_mips_hamming_map.ncd top_mips_hamming.ngd top_mips_hamming.pcf 
+par -w -intstyle ise -ol high -mt off top_mips_hamming_map.ncd top_mips_hamming.ncd top_mips_hamming.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_mips_hamming.twx top_mips_hamming.ncd -o top_mips_hamming.twr top_mips_hamming.pcf -ucf top_mips_hamming.ucf 
+bitgen -intstyle ise -f top_mips_hamming.ut top_mips_hamming.ncd 
+xst -intstyle ise -ifn "C:/Users/Student.DESKTOP-BRRV4QB.001/Downloads/376/Project_LCD/top_mips_hamming.xst" -ofn "C:/Users/Student.DESKTOP-BRRV4QB.001/Downloads/376/Project_LCD/top_mips_hamming.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_mips_hamming.ucf -p xc6slx9-tqg144-3 top_mips_hamming.ngc top_mips_hamming.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_mips_hamming_map.ncd top_mips_hamming.ngd top_mips_hamming.pcf 
+par -w -intstyle ise -ol high -mt off top_mips_hamming_map.ncd top_mips_hamming.ncd top_mips_hamming.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_mips_hamming.twx top_mips_hamming.ncd -o top_mips_hamming.twr top_mips_hamming.pcf -ucf top_mips_hamming.ucf 
+bitgen -intstyle ise -f top_mips_hamming.ut top_mips_hamming.ncd 
+xst -intstyle ise -ifn "C:/Users/Student.DESKTOP-7NHPTUF/Desktop/Project_LCD/top_mips_hamming.xst" -ofn "C:/Users/Student.DESKTOP-7NHPTUF/Desktop/Project_LCD/top_mips_hamming.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_mips_hamming.ucf -p xc6slx9-tqg144-3 top_mips_hamming.ngc top_mips_hamming.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_mips_hamming_map.ncd top_mips_hamming.ngd top_mips_hamming.pcf 
+par -w -intstyle ise -ol high -mt off top_mips_hamming_map.ncd top_mips_hamming.ncd top_mips_hamming.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_mips_hamming.twx top_mips_hamming.ncd -o top_mips_hamming.twr top_mips_hamming.pcf -ucf top_mips_hamming.ucf 
+bitgen -intstyle ise -f top_mips_hamming.ut top_mips_hamming.ncd 

@@ -1,0 +1,38 @@
+
+
+NET "board_clk" LOC = P51;
+
+
+NET "lcd_cntrl[2]" LOC = P11;
+NET "lcd_cntrl[1]" LOC = P10;
+NET "lcd_cntrl[0]" LOC = P9;
+NET "lcd_data[3]" LOC = P16;
+NET "lcd_data[2]" LOC = P15;
+NET "lcd_data[1]" LOC = P14;
+NET "lcd_data[0]" LOC = P12;
+NET "led_out[2]" LOC = P26;
+NET "led_out[1]" LOC = P23;
+NET "led_out[0]" LOC = P21;
+NET "sw_in[6]" LOC = P48;
+NET "sw_in[5]" LOC = P46;
+NET "sw_in[4]" LOC = P44;
+NET "sw_in[3]" LOC = P22;
+NET "sw_in[2]" LOC = P24;
+NET "sw_in[1]" LOC = P27;
+NET "sw_in[0]" LOC = P30;
+NET "board_rst" LOC = P41;
+NET "led_halted" LOC = P74;
+
+# PlanAhead Generated physical constraints 
+
+NET "sw_in[7]" LOC = P57;
+NET "sw_in[8]" LOC = P59;
+NET "sw_in[9]" LOC = P61;
+NET "sw_in[10]" LOC = P64;
+NET "led_out[3]" LOC = P29;
+NET "led_out[4]" LOC = P32;
+NET "led_out[5]" LOC = P34;
+NET "led_out[6]" LOC = P39;
+NET "led_out[7]" LOC = P47;
+NET "led_out[8]" LOC = P45;
+NET "led_out[9]" LOC = P43;

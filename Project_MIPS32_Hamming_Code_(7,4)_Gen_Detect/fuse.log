@@ -1,0 +1,18 @@
+Running: E:\xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/Student.DESKTOP-7NHPTUF/Desktop/Project_LCD/top_mips_hamming_isim_beh.exe -prj C:/Users/Student.DESKTOP-7NHPTUF/Desktop/Project_LCD/top_mips_hamming_beh.prj work.top_mips_hamming work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Student.DESKTOP-7NHPTUF/Desktop/Project_LCD/Course_proj2.v" into library work
+Analyzing Verilog file "E:/xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module pipe_MIPS32
+Compiling module lcd_controller
+Compiling module top_mips_hamming
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 4 Verilog Units
+Built simulation executable C:/Users/Student.DESKTOP-7NHPTUF/Desktop/Project_LCD/top_mips_hamming_isim_beh.exe
+Fuse Memory Usage: 32840 KB
+Fuse CPU Usage: 265 ms

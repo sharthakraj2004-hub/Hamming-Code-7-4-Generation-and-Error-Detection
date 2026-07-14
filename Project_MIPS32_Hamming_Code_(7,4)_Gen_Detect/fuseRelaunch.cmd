@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Student.DESKTOP-7NHPTUF/Desktop/Project_LCD/top_mips_hamming_isim_beh.exe" -prj "C:/Users/Student.DESKTOP-7NHPTUF/Desktop/Project_LCD/top_mips_hamming_beh.prj" "work.top_mips_hamming" "work.glbl" 

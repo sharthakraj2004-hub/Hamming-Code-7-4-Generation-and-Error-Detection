@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Student.DESKTOP-7NHPTUF\Desktop\Project_LCD\top_mips_hamming.ncd
+OUTFILE=C:\Users\Student.DESKTOP-7NHPTUF\Desktop\Project_LCD\top_mips_hamming.bit
+FAMILY=Spartan6
+PART=xc6slx9-3tqg144
+WORKINGDIR=C:\Users\Student.DESKTOP-7NHPTUF\Desktop\Project_LCD
+LICENSE=WebPack
+USER_INFO=211111044_0_0_816
