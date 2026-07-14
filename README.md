@@ -213,19 +213,19 @@ Syndrome = S4 S2 S1
 ## Hamming Code Generation
 
 <p align="center">
-<img src="images/Hamming_Generation.png" width="850">
+<img src="Simulation Results/Hamming_Code_Gen_1111.jpg" width="850">
 </p>
 
 ## Error Detection
 
 <p align="center">
-<img src="images/Error_Detection.png" width="850">
+<img src="Simulation Results/Error_Detect_bit4_1011.png" width="850">
 </p>
 
 ## Simulation Waveforms
 
 <p align="center">
-<img src="images/Waveform.png" width="900">
+<img src="Simulation Results/Error_Detect_bit4_1011_Waveform.png" width="900">
 </p>
 
 ---
