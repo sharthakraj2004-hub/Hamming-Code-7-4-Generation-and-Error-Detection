@@ -52,7 +52,7 @@ The processor follows the standard five-stage MIPS32 pipeline:
 - Stores the computed result back into the register file.
 
 <p align="center">
-<img src="images/Pipeline.png" width="900">
+<img src="MIPS32_Pipeline.jpg" width="900">
 </p>
 
 ---
@@ -60,7 +60,7 @@ The processor follows the standard five-stage MIPS32 pipeline:
 # System Architecture
 
 <p align="center">
-<img src="images/FSM.png" width="900">
+<img src="FSM_Diagram.png" width="900">
 </p>
 
 The FSM controls every stage of Hamming code generation, error injection, syndrome calculation, and result display.
